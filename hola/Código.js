@@ -1,3 +1,3 @@
-function mySecondFirstFunction() {
+function mySecondSecondFunction() {
   
 }
