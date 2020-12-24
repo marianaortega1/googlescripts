@@ -1,3 +1,3 @@
 # .gitignore for Google Apps Script projects using https://www.npmjs.com/package/google-apps-script
-.clasp.sjon
-appscript.json
+.clasp.json
+appsscript.json
